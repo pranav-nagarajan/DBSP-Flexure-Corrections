@@ -4,4 +4,4 @@ This repository serves as a tutorial for computing flexure corrections for the D
 
 The tutorial also demonstrates how to compare a DBSP observation (i.e. a 1D spectrum extracted by <a href="https://pypeit.readthedocs.io/en/release/index.html">PypeIt</a>) to a <a href="https://archive.stsci.edu/hlsp/bosz/search.php">BOSZ Kurucz</a> model spectrum to derive a radial velocity. The flexure correction is applied to this radial velocity measurement to recover the literature value for the RV standard star <a href="http://simbad.u-strasbg.fr/simbad/sim-id?Ident=HD++40460">HD 40460</a>.
 
-This method of RV determination is used in a forthcoming publication (Nagarajan and El-Badry (2023)) that describes the results of spectroscopic follow-up of black hole and neutron star candidates in a sample of ellipsoidal variables in Gaia DR3.
+This method of RV determination is used in a forthcoming publication (Nagarajan et al. 2023) that describes the results of spectroscopic follow-up of black hole and neutron star candidates in a sample of ellipsoidal variables in Gaia DR3.
